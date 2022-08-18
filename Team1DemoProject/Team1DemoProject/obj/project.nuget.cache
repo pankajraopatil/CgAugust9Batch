@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BYYAeP51ZM7SjcNmuto0gsZUPfZgDOp+aGetoVd4GBAx0g3qRe/134X5ZqnygdRDlXB4xL37rfC7r7kRoJcLpA==",
+  "success": true,
+  "projectFilePath": "F:\\CgAug9\\RepoDemo\\Team1DemoProject\\Team1DemoProject\\Team1DemoProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pankaj.PANKAJ-PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
