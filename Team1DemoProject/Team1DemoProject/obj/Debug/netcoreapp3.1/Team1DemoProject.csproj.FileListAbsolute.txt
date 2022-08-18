@@ -1,0 +1,14 @@
+F:\CgAug9\RepoDemo\Team1DemoProject\Team1DemoProject\bin\Debug\netcoreapp3.1\Team1DemoProject.exe
+F:\CgAug9\RepoDemo\Team1DemoProject\Team1DemoProject\bin\Debug\netcoreapp3.1\Team1DemoProject.deps.json
+F:\CgAug9\RepoDemo\Team1DemoProject\Team1DemoProject\bin\Debug\netcoreapp3.1\Team1DemoProject.runtimeconfig.json
+F:\CgAug9\RepoDemo\Team1DemoProject\Team1DemoProject\bin\Debug\netcoreapp3.1\Team1DemoProject.runtimeconfig.dev.json
+F:\CgAug9\RepoDemo\Team1DemoProject\Team1DemoProject\bin\Debug\netcoreapp3.1\Team1DemoProject.dll
+F:\CgAug9\RepoDemo\Team1DemoProject\Team1DemoProject\bin\Debug\netcoreapp3.1\Team1DemoProject.pdb
+F:\CgAug9\RepoDemo\Team1DemoProject\Team1DemoProject\obj\Debug\netcoreapp3.1\Team1DemoProject.csproj.AssemblyReference.cache
+F:\CgAug9\RepoDemo\Team1DemoProject\Team1DemoProject\obj\Debug\netcoreapp3.1\Team1DemoProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\CgAug9\RepoDemo\Team1DemoProject\Team1DemoProject\obj\Debug\netcoreapp3.1\Team1DemoProject.AssemblyInfoInputs.cache
+F:\CgAug9\RepoDemo\Team1DemoProject\Team1DemoProject\obj\Debug\netcoreapp3.1\Team1DemoProject.AssemblyInfo.cs
+F:\CgAug9\RepoDemo\Team1DemoProject\Team1DemoProject\obj\Debug\netcoreapp3.1\Team1DemoProject.csproj.CoreCompileInputs.cache
+F:\CgAug9\RepoDemo\Team1DemoProject\Team1DemoProject\obj\Debug\netcoreapp3.1\Team1DemoProject.dll
+F:\CgAug9\RepoDemo\Team1DemoProject\Team1DemoProject\obj\Debug\netcoreapp3.1\Team1DemoProject.pdb
+F:\CgAug9\RepoDemo\Team1DemoProject\Team1DemoProject\obj\Debug\netcoreapp3.1\Team1DemoProject.genruntimeconfig.cache
